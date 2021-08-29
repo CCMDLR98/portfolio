@@ -13,8 +13,7 @@ export default function Skills(){
                     </h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
                         Experiencia en el manejo de diferentes tecnologias para el desarrollo
-                        de aplicaciones, así como habilidades para el trabajo en equipo ejemplo
-                        metodologias agiles.
+                        de aplicaciones, así como habilidades para el trabajo en equipo.
                     </p>
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
