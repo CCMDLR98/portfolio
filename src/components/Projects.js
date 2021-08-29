@@ -12,8 +12,8 @@ export default function Projects(){
                         Proyectos
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Proyectos realizados en el desarrollo de mis habilidades
-                        de web developer, mediante cursos, casos de estudio y más.
+                        Proyectos realizados mediante cursos, casos de estudio
+                        e intereses personales en nuevas tecnologias.
                     </p>
                 </div>
                 <div className="flex flex-wrap m-4">

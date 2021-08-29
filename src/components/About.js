@@ -12,8 +12,8 @@ export default function About(){
                         Medrano de la Rocha
                     </h1>
                     <p className="mb-8 leading-relaxed text-center xl:ml-32 xl:mr-28 uppercase font-semibold">
-                        Hola!, soy Ingeniería en Sistemas
-                        computacionales, Desarrollando sus
+                        Hola!, soy Ingeniero en Sistemas
+                        Computacionales, Desarrollando sus
                         habilidades en el desarrollo web, desde
                         Culiacán, Sinaloa.
                     </p>
