@@ -7,9 +7,9 @@ export default function Projects(){
         <section id="projects" className="text-gray-400 bg-gray-900 body-font">
             <div className="container px-5 py-10 mx-auto text-center lg:px-40">
                 <div className="flex flex-col w-full mb-20">
-                    <CodeIcon className="mx-auto inline-block w-10 mb-4"/>
+                    <CodeIcon className="mx-auto inline-block w-10 mb-4 text-yellow-450 "/>
                     <h1 className="sm:text-4x1 text-3xl font-medium title-font mb-4 text-white">
-                        Proyectos - Casos de Uso
+                        Proyectos
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
                         Proyectos realizados en el desarrollo de mis habilidades
@@ -25,7 +25,7 @@ export default function Projects(){
                             <div className="flex relative object-fill">
                                 <img
                                     alt="gallery"
-                                    className="absolute inset-0 w-full h-full object-cover object-center hover:opacity-0"
+                                    className="absolute mix-blend-exclusion inset-0 w-full h-full object-cover object-center hover:opacity-0"
                                     src={project.image}
                                 />
                                 <div className="px-8 py-10 relative z-1 w-full h-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">

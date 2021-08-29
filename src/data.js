@@ -3,7 +3,7 @@ export const projects = [
     title: "e-commerce",
     subtitle: "MERN Stack",
     description:
-      "Tienda de venta de articulos con react, realizando un deploy en firebase con auth para los usurios",
+      "Tienda de venta de articulos con react, realizado deploy en firebase y auth-google",
     image: "./work-progress.png",
     link: "",
   },

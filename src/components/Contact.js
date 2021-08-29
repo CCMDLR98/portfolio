@@ -1,10 +1,17 @@
 import React from 'react';
+import {ChipIcon, PhoneIcon} from "@heroicons/react/solid";
 
 
 export default function Contact(){
     return (
         <section id="contact" className="relative">
-            <div className="container px-5 py-10 mx-auto flex justify-center sm:flex-nowrap flex-wrap opacity-60">
+            <div className="text-center mb-1">
+                <PhoneIcon className="w-10 inline-block mb-4"/>
+                <h1 className="sm:text-4x1 text-3x1 font-medium title-font text-white mb-4">
+                    Contacto
+                </h1>
+            </div>
+            <div className="container px-5 py-5 mx-auto flex justify-center sm:flex-nowrap flex-wrap opacity-60">
                 <div className="lg:w-1/3 items-center md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
                     <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
                         <div className="lg:w-1/2 px-6">
